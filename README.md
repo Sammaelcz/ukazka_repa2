@@ -30,4 +30,4 @@ Ale holky říkaly, že:
 
 ale holky říkaly:
 
-> no to snad není možný?!
+> no to snad není možný?! 
