@@ -6,6 +6,10 @@
 
 #### nadpis 4
 
+- odrážka 1
+- odrážka 2
+- odrážka 3
+
 text
 
 **Jsem <sub>nízko</sub>tučný**
@@ -20,8 +24,10 @@ text
 
 Jsem <sup>**Super**</sup>man
 
+Ale holky říkaly, že:
 
+> punk je jinde
 
-- odrážka 1
-- odrážka 2
-- odrážka 3
+ale holky říkaly:
+
+> no to snad není možný?!
